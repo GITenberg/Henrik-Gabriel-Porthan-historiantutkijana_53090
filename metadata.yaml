@@ -1,0 +1,25 @@
+_repo: Henrik-Gabriel-Porthan-historiantutkijana_53090
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Suolahti, Gunnar
+    alias: Pallander, Gunnar
+    birthdate: 1876
+    deathdate: 1933
+    gutenberg_agent_id: '47213'
+    url: http://www.gutenberg.org/2009/agents/47213
+description: ''
+gutenberg_issued: '2016-09-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '53090'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Porthan, Henrik Gabriel, 1739-1804'
+- !lcc 'PH'
+- GITenberg
+title: Henrik Gabriel Porthan historiantutkijana
+url: http://www.gutenberg.org/ebooks/53090
